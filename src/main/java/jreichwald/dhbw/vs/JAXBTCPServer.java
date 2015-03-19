@@ -71,7 +71,7 @@ public class JAXBTCPServer {
 			}
 			
 			connectionCount++; 
-			_log.debug("Client connected. (Connection count: " + connectionCount);
+			_log.debug("Client connected. (Connection count: " + connectionCount + ")");
 			
 			try {
 

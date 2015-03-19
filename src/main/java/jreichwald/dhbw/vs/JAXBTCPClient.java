@@ -47,9 +47,6 @@ public class JAXBTCPClient {
 			client.getOutputStream().flush();
 			
 			
-			
-		
-			
 		} catch (UnknownHostException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
